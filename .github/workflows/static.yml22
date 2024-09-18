@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohanad Alyousefy's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #007ACC;
+            padding-bottom: 10px;
+        }
+        .contact-info, .skills, .languages {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin-bottom: 5px;
+        }
+        .contact-info li span {
+            font-weight: bold;
+        }
+        .publication, .education {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mohanad Alyousefy</h1>
+        <ul class="contact-info">
+            <li><span>Location:</span> Munich, Germany</li>
+            <li><span>Email:</span> mohanad.alyousefy@tum.de</li>
+            <li><span>Phone:</span> (+49) 17676782473</li>
+            <li><span>LinkedIn:</span> <a href="https://linkedin.com/in/mohanad-alyousefy-0b24ab23b" target="_blank">linkedin.com/in/mohanad-alyousefy</a></li>
+            <li><span>ResearchGate:</span> <a href="https://www.researchgate.net/profile/Mohanad-Alyousefy-2" target="_blank">ResearchGate</a></li>
+        </ul>
+
+        <!-- Education Section -->
+        <div class="section">
+            <h2>Education and Training</h2>
+            <div class="education">
+                <h3>Master of Health Science – Prevention and Health Promotion</h3>
+                <p>Technical University of Munich <br> <strong>17/10/2023 – Current</strong></p>
+            </div>
+            <div class="education">
+                <h3>INTERNSHIP CERTIFICATE</h3>
+                <p>Sana’a University- Faculty Of Dentistry, Sana'a (Yemen) <br> <strong>02/02/2021 – 02/02/2022</strong></p>
+                <p>Part-time internship lasted 12 months. Worked 16 hours per week.</p>
+            </div>
+            <div class="education">
+                <h3>Bachelor Degree of Dental Surgery (B.D.S)</h3>
+                <p>Sana’a University- Faculty of Dentistry, Sana'a (Yemen) <br> <strong>01/09/2015 – 20/09/2020</strong></p>
+                <p>Final grade: 92.58% (Excellent With Honors) - 2nd top student of the batch</p>
+            </div>
+        </div>
+
+        <!-- Publications Section -->
+        <div class="section">
+            <h2>Publications</h2>
+            <div class="publication">
+                <p>Questionnaire-Based Study on the Prevalence, Awareness, and Preventive Measures of Occupational Hazards Among Dental Professions - <strong>Medical Science Monitor</strong></p>
+            </div>
+            <div class="publication">
+                <p>Knowledge, Attitude and Practice of Hepatitis B Viral Infection among Dental Students in Sana’a city, Yemen - <strong>International Journal of Dental Research and Oral Health</strong></p>
+            </div>
+            <div class="publication">
+                <p>Awareness of ergonomics & work-related musculoskeletal disorders among dental professionals and students in Sana’a-Yemen - <strong>International Journal of Current Researches and Reviews</strong></p>
+            </div>
+        </div>
+
+        <!-- Honors and Awards Section -->
+        <div class="section">
+            <h2>Honours and Awards</h2>
+            <p>DAAD Scholarship holder in the program (Masters Studies for All Academic Disciplines) <br><strong>DAAD (German Academic Exchange Service)</strong>, 2023</p>
+        </div>
+
+        <!-- Skills Section -->
+        <div class="section">
+            <h2>Skills</h2>
+            <ul class="skills">
+                <li>Data Gathering, Data Processing, Data Visualization</li>
+                <li>Experience in report writing and systematic reviews</li>
+                <li>Excellent references management skills in EndNote X8</li>
+                <li>Proficient with statistical software: SPSS, STATA</li>
+            </ul>
+        </div>
+
+        <!-- Language Skills -->
+        <div class="section">
+            <h2>Languages</h2>
+            <ul class="languages">
+                <li><strong>English:</strong> Listening (C1), Reading (B2), Writing (B2), Spoken Production (C1), Interaction (C1)</li>
+                <li><strong>German:</strong> Listening (A2), Reading (A2), Writing (A2), Spoken Production (A2), Interaction (A2)</li>
+                <li><strong>Mother Tongue:</strong> Arabic</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
